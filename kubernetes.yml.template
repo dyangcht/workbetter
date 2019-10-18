@@ -36,6 +36,7 @@ metadata:
 spec:
   ports:
   - port: 30000
+    nodePort: 30008
     targetPort: ${PORT}
   selector:
     app: myapp
