@@ -754,7 +754,7 @@ div#ojAppNav2 ul.oj-navigationlist-element {
     height: 156px;
     width: 156px;
     margin-top: 10px;
-    border: 15px solid #000000;
+    border: 5px solid #000000;
 }
 #MyNotifications .tcrow .theadcount span.approveicon, #MyNotifications .tcrow .tnewhire span.waitingicon, #MyNotifications .tcrow .ttermin span.rejectedicon {
     margin-left: 15px;
